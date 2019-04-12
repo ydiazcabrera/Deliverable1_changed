@@ -49,12 +49,12 @@ namespace DeliverableOne
             //Format, convert and print results
 
             Double value = totalAmount;
-
+            
 
             Console.WriteLine("USD :  " + value.ToString("C"));
             Console.WriteLine("Swedish : " + value.ToString("C", CultureInfo.CreateSpecificCulture("da-DK")));
             Console.WriteLine("Japanese : " + value.ToString("C", CultureInfo.CreateSpecificCulture("ja-JP")));
-            Console.WriteLine("Thai :" + value.ToString("C"));
+            Console.WriteLine("Thai : " + value.ToString("C", CultureInfo.CreateSpecificCulture("th-TH")));
 
 
 
