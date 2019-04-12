@@ -1,0 +1,7 @@
+C:\Users\yendi\source\repos\DeliverableOne\DeliverableOne\obj\Debug\DeliverableOne.csprojAssemblyReference.cache
+C:\Users\yendi\source\repos\DeliverableOne\DeliverableOne\obj\Debug\DeliverableOne.csproj.CoreCompileInputs.cache
+C:\Users\yendi\source\repos\DeliverableOne\DeliverableOne\bin\Debug\DeliverableOne.exe.config
+C:\Users\yendi\source\repos\DeliverableOne\DeliverableOne\bin\Debug\DeliverableOne.exe
+C:\Users\yendi\source\repos\DeliverableOne\DeliverableOne\bin\Debug\DeliverableOne.pdb
+C:\Users\yendi\source\repos\DeliverableOne\DeliverableOne\obj\Debug\DeliverableOne.exe
+C:\Users\yendi\source\repos\DeliverableOne\DeliverableOne\obj\Debug\DeliverableOne.pdb
