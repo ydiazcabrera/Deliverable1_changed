@@ -54,6 +54,7 @@ namespace DeliverableOne
             Console.WriteLine("USD :  " + value.ToString("C"));
             Console.WriteLine("Swedish : " + value.ToString("C", CultureInfo.CreateSpecificCulture("da-DK")));
             Console.WriteLine("Japanese : " + value.ToString("C", CultureInfo.CreateSpecificCulture("ja-JP")));
+            Console.OutputEncoding = System.Text.Encoding.Unicode;
             Console.WriteLine("Thai : " + value.ToString("C", CultureInfo.CreateSpecificCulture("th-TH")));
 
 
